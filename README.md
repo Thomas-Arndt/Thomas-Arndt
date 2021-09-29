@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on this README
+- 🌱 I’m currently working on setting things up. Check back soon!
