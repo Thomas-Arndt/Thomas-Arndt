@@ -2,4 +2,5 @@
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQHTiaGIEDjaDg/profile-displaybackgroundimage-shrink_200_800/0/1645408516291?e=1651104000&v=beta&t=xQQ3rgSR7TGKK6RWhYKRs2N8FejdCMvC2U-i2Q-H2-0" />
 </p>
 <h1 align="center">My name is Thomas Arndt.</h1>
+<h2 align="center">Welcome to my GitHub!</h2>
 
