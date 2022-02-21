@@ -29,7 +29,7 @@
 </p>
 </p align="center">
     This acheivement has served to fuel the flames of excitement<br>
-    and desire to excel in constantly evolving and endlessly<br>
+    and desire to excel in the constantly evolving and endlessly<br>
     interesting world of computer programming.
 </p>
 <p align="center" style="border-bottom: 1px solid gray; padding: 40px 0">
