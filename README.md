@@ -1,5 +1,3 @@
-### Hi there 👋
-
-My name is Thomas Arndt, and I am a student of the Full Stack Online Bootcamp through Coding Dojo.
-
-Here I have shared the various assignments I have completed during the course, as well as a couple of personal projects that I am developing.
+<p align-"center">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQHTiaGIEDjaDg/profile-displaybackgroundimage-shrink_200_800/0/1645408516291?e=1651104000&v=beta&t=xQQ3rgSR7TGKK6RWhYKRs2N8FejdCMvC2U-i2Q-H2-0" />
+</p>
