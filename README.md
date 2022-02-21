@@ -78,11 +78,11 @@
 </p>
 <h2 style="text-decoration: underline">Contact Me:</h2>
 <p align="center">
-    <a href="mailto:arndtt42@gmail.com?subject=Hello from your GitHub page!">
+    <a href="mailto:arndtt42@gmail.com?subject=Hello from your GitHub page!" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=E45139"/>
     </a>
-    <a href="https://www.linkedin.com/in/thomas-arndt-developer/"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <a href="https://www.linkedin.com/in/thomas-arndt-developer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
     </a>
-    <a href="https://discordapp.com/users/441066200286494720"><img src="https://img.shields.io/badge/-DISCORD-444444?style=for-the-badge&logo=discord&logoColor=7289DA"/>
+    <a href="https://discordapp.com/users/441066200286494720" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-DISCORD-444444?style=for-the-badge&logo=discord&logoColor=7289DA"/>
     </a>
 </p>
