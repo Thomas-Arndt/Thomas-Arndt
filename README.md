@@ -4,6 +4,11 @@
 <h1 align="center" style="border-bottom: 1px solid gray">My name is Thomas Arndt.
     <span style="font-size: 20px"><br>Welcome to my GitHub!</span>
 </h1>
+<p align="center">
+   <img src="https://badges.pufler.dev/visits/Thomas-Arndt/Thomas-Arndt"/>
+   <img src="https://badges.pufler.dev/repos/Thomas-Arndt"/>
+   <img src="https://badges.pufler.dev/commits/monthly/Thomas-Arndt" />
+  </p>
 <h2 align="center" style="text-decoration: underline">A little about me:</h2>
 <div align="center">
 <p align="center">
