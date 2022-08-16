@@ -69,7 +69,6 @@
 <p align="center" style="padding-top: 20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thomas-Arndt&show_icons=true&theme=merko&line_height=27" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Arndt)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center" style="border-bottom: 1px solid gray; padding-bottom: 40px"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-Arndt&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0"> 
 </p>
