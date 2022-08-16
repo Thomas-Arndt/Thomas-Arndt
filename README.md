@@ -69,7 +69,7 @@
 <img src="https://raw.githubusercontent.com/Thomas-Arndt/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/Thomas-Arndt/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 <p align="center" style="border-bottom: 1px solid gray; padding-bottom: 40px"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-Arndt&show_icons=true&locale=en&layout=compact&theme=github_dark&line_height=0"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Thomas-Arndt&theme=github_dark&show_icons=true"> 
 </p>
 <h2 style="text-decoration: underline">Contact Me:</h2>
 <p align="center">
