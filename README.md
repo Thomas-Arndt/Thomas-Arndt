@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQHTiaGIEDjaDg/profile-displaybackgroundimage-shrink_200_800/0/1645408516291?e=1651104000&v=beta&t=xQQ3rgSR7TGKK6RWhYKRs2N8FejdCMvC2U-i2Q-H2-0" />
-</p>
 <h1 align="center" style="border-bottom: 1px solid gray">My name is Thomas Arndt.
     <span style="font-size: 20px"><br>Welcome to my GitHub!</span>
 </h1>
@@ -48,6 +45,7 @@
     <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-SPRING-00793B?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
     <img src="https://img.shields.io/badge/-TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-GODOT-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=478CBF"/>
     <img src="https://img.shields.io/badge/-Apache2-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-GUNICORN-499848?style=for-the-badge&logo=gunicorn&logoColor=FFFFFF"/>
