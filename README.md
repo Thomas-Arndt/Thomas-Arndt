@@ -42,7 +42,6 @@
     <img src="https://img.shields.io/badge/-REACT-333333?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/-EXPRESS-00BF5B?style=for-the-badge&logo=express&logoColor=00BFff"/>
     <img src="https://img.shields.io/badge/-MONGODB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-    <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-SPRING-00793B?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
     <img src="https://img.shields.io/badge/-TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=000000"/>
@@ -63,6 +62,7 @@
     <img src="https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-FIGMA-31A8FF?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
     <img src="https://img.shields.io/badge/-TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io.badge/-JIRA-FFFFFF?style=for-the-badge&logo=figma&logoColor=0052CC"/>
     <img src="https://img.shields.io/badge/-AMAZON AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E"/>
 </p>
 <h2 style="padding-top: 20px; text-decoration: underline">GitHub Statistics</h2>
