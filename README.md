@@ -17,7 +17,7 @@
 </p>
 <p align="center">
     My current goal is to develop my software development capabilities.<br>
-    My recent graduation from Coding Dojo marks the completion<br>
+    My graduation from Coding Dojo marked the completion<br>
     of a large step towards that goal.<br>
 </p>
 </p align="center">
@@ -51,6 +51,7 @@
     <img src="https://img.shields.io/badge/-GODOT-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=478CBF"/>
     <img src="https://img.shields.io/badge/-Apache2-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-GUNICORN-499848?style=for-the-badge&logo=gunicorn&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-VSCODE-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
     <img src="https://img.shields.io/badge/-SPRING TOOL SUITE-333333?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
     <img src="https://img.shields.io/badge/-ADOBE PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF"/>
