@@ -37,10 +37,10 @@
     <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-Python-F7F044?style=for-the-badge&logo=python&logoColor=3776AB"/>
     <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-MYSQL-F29800?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+    <img src="https://img.shields.io/badge/-MYSQL-F29800?style=for-the-badge&logo=mysql&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-NODE.JS-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
     <img src="https://img.shields.io/badge/-REACT-333333?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/-EXPRESS-00BF5B?style=for-the-badge&logo=express&logoColor=00BFff"/>
+    <img src="https://img.shields.io/badge/-EXPRESS-00BF5B?style=for-the-badge&logo=express&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-MONGODB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
     <img src="https://img.shields.io/badge/-SPRING-00793B?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
     <img src="https://img.shields.io/badge/-TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/>
