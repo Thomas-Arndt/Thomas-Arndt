@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-Razer-000000?style=for-the-badge&logo=razer&logoColor=00FF00"/>
     <img src="https://img.shields.io/badge/-SSMS-FFFFFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-GODOT-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=478CBF"/>
     <img src="https://img.shields.io/badge/-Apache2-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF"/>
