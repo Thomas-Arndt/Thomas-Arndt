@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/-REACT-333333?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/-EXPRESS-00BF5B?style=for-the-badge&logo=express&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-MONGODB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-    <img src="https://img.shields.io/badge/-SPRING-00793B?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+    <img src="https://img.shields.io/badge/-SPRINGSUITE-00793B?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
     <img src="https://img.shields.io/badge/-TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-Razer-000000?style=for-the-badge&logo=razer&logoColor=00FF00"/>
